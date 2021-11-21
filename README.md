@@ -1,5 +1,6 @@
 # CNVD-2021-30167-NC-BeanShell-RCE
-用于CNVD-2021-30167：用友NC BeanShell RCE，检测+验证+
+用于CNVD-2021-30167：用友NC BeanShell RCE，检测+验证+批量
+
 用法示例：
 
 python 用友beanshell-rce.py -h ##查看帮助
